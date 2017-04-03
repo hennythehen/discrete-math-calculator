@@ -11,4 +11,4 @@ The use is specific but will be expanded to solve more complex problems as my ne
 Solving formulas by hand can be quite time consuming. The intention of this program is to save time by solving otherwise tedious questions or evaluations quickly.
 
 <h3> Glossary </h3>
-Integer - Commonly refered to as the counting numbers { -∞ , ... , -3 , -2, -1 , 0 , 1 , 2 , ... , ∞ }.
+Integer - Commonly refered to as whole numbers { -∞ , ... , -3 , -2, -1 , 0 , 1 , 2 , ... , ∞ }.
